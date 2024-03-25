@@ -1,0 +1,188 @@
+* {
+  background-color: #fff8dc;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  /* styles.css */
+  /* styles.css */
+  .App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px; /* Add some margin from the top */
+  }
+
+  input[type="text"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  h2 {
+    margin-bottom: 5px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  ul li {
+    margin-bottom: 5px;
+  }
+
+  p img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+
+  /* styles.css */
+  .App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px; /* Add some margin from the top */
+  }
+
+  input[type="text"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  h2 {
+    margin-bottom: 5px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  ul li {
+    margin-bottom: 5px;
+  }
+
+  img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+  /* Add some margin from the top */
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+h2 {
+  margin-bottom: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+p img {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+/* styles.css */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+
+  /* Add some margin from the top */
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+h2 {
+  margin-bottom: 5px;
+  color: #007bff;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+p img {
+  max-width: 100px;
+  max-height: 100px;
+}
+.Header {
+  margin-left: 600px;
+}
